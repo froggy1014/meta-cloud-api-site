@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Meta Cloud API Logo](static/img/logo.svg)
+<img src="static/img/logo.svg" alt="Meta Cloud API Logo" width="120" height="120">
 
 **A comprehensive documentation site for the Meta Cloud API - a developer-friendly wrapper for the WhatsApp Business Cloud API**
 
